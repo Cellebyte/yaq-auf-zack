@@ -10,8 +10,11 @@ header h1 {
 }
 
 header h2 {
-  color: #e7feff;
+  color: #d0fbfd;
 }
 header a.button {
-  color: #e7feff;
+  color: #b1f1f5;
+}
+header a.button:hover a.button:active {
+  color: #111111ee;
 }
