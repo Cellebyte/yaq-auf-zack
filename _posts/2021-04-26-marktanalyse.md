@@ -5,11 +5,14 @@ tags: marktanalyse auto vergleich
 category: vergleich
 ---
 Ein kurzer Überblick über die Elektroautos die zum Zeitpunkt der Entscheidung in Deutschland bestellbar waren.
-## Bestellbare Autos (April-Mai 2021)
+
+## Elektroautos/EVs (April-Mai 2021)
 
 Hierbei gilt zu beachten, dass hier Autos aufgelistet wurden, die für uns in Frage kamen.
 Kleinwagen wie ein Smart-E oder Mini Cooper E oder Fiat 500E oder Renault ZOE sind wegen meiner Körpergröße von 1,96 und ihrer
 Langstreckentauglichkeit aus der Liste ausgenommen.
+
+### Bestellbar
 
 * Skoda Enyaq
 * VW ID.4
@@ -21,14 +24,14 @@ Langstreckentauglichkeit aus der Liste ausgenommen.
 * Mercedes EQA
 * Ford Mustang Mach E
 
-## Unbestellbare Autos (April-Mai 2021)
+### Unbestellbar
 
 * Hyundai IONIQ 5
 * Kia EV6
 * Tesla Model Y
 * Audi Q4 Etron
 
-## Auswahl der Kandidaten
+### Auswahl der Kandidaten
 
 Aus dieser Liste wurde dann nach folgenden Kriterien ausgewählt.
 
