@@ -4,7 +4,7 @@ author: marcel
 tags: marktanalyse auto vergleich
 category: vergleich
 ---
-
+Ein kurzer Überblick über die Elektroautos die zum Zeitpunkt der Entscheidung in Deutschland bestellbar waren.
 ## Bestellbare Autos (April-Mai 2021)
 
 Hierbei gilt zu beachten, dass hier Autos aufgelistet wurden, die für uns in Frage kamen.

@@ -4,9 +4,7 @@ author: marcel
 tags: vorgeschichte
 category: story
 ---
-
 Moin, moin zu meinem ersten Blog Post auf diesem EV oder Elektroauto Blog.
-
 Ich werde hier unsere Vorgeschichte erklären und wieso wir das Wagnis, Elektroauto, eingehen wollen.
 
 ## Fragen
