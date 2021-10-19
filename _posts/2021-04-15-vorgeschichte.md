@@ -46,19 +46,22 @@ Meine Freundin besitzt einen Polo 6N1 in der Basisausstattung mit einer Erstzula
 
 * Im letzten Jahr (2020) ging der Polo nach einem Waschstraßendurchgang einfach mitten auf der Kreuzung im Stadtverkehr aus. (**ADAC** hat ihn dann wieder flott bekommen)
 * Dieses Jahr (2021) ging der Polo meiner Freundin auf dem Nachhauseweg vom 25sten Hochzeitstag meiner Eltern einfach mitten auf der Autobahn (Kreuz Kaiserberg) aus, ließ sich zwar auf dem Standstreifen noch starten aber nur für kurze Zeit. (Sonntags in der Nacht erstmal den **ADAC** Abschleppdienst rufen)
-* Probefahrt am Wochenende, nachdem der Wagen repariert worden war endete in einem weiteren Anruf beim **ADAC** der uns wieder einmal nach Haus abschleppte.
-* Auf dem Nachhauseweg vom wöchentlichen Termin meiner Freundin klemmte der Gaszug wohl plätzlich während der Fahrt fest und der Wagen fuhr Vollgas mitten auf der Schnellstraße. (ein mobiler **ADAC** Service hatte es zufällig gesehen und konnte ihr Ad-Hoc helfen sie hatte dann Begleitschutz bis nach Hause)
+* Probefahrt am Wochenende, nachdem der Wagen repariert worden war. endete in einem weiteren Anruf beim **ADAC** der uns wieder einmal nach Haus abschleppte.
+* Auf dem Nachhauseweg vom wöchentlichen Termin meiner Freundin klemmte der Gaszug wohl plötzlich während der Fahrt fest und der Wagen fuhr Vollgas mitten auf der Schnellstraße. (ein mobiler **ADAC** Service hatte es zufällig gesehen und konnte ihr Ad-Hoc helfen sie hatte dann Begleitschutz bis nach Hause)
 
-Um dem **ADAC** einen gefallen zu tun und auch, weil sich eine Inspektion/Instandsetzung nicht mehr lohnt.
-Nach all diesen nervigen und auch fehlgeschlagenen Investitionen und Reparaturen läuft der Wagen aktuell aber den nächsten TÜV schafft dieser vermutlich sowieso nicht mehr.
-All diese Punkte sprachen dann für einen neuen fahrbaren Untersatz mit Dach. Meine Motorrad ist halt recht unpraktisch für tägliche Fahrten.
+Um dem **ADAC** einen Gefallen zu tun und auch, weil sich eine Inspektion/Instandsetzung nicht mehr lohnt, wollen wir den Polo abschaffen.
+
+Nach all diesen nervigen und auch fehlgeschlagenen Investitionen und Reparaturen läuft der Wagen zwar aktuell, aber den nächsten TÜV schafft dieser vermutlich sowieso nicht mehr.
+All diese Punkte sprachen dann für einen neuen fahrbaren Untersatz mit Dach.
+
+Mein Motorrad ist halt recht unpraktisch für tägliche Fahrten und muss auch demnächst instandgesetzt werden.
 
 ### Wieso ein Elektroauto und nicht ein gebrauchter Benziner/Diesel?
 
 * Stauerersparnis
   * marginale 115€ gegenüber 0€
   * CO2 Steuer die noch zusätzlich auf den Sprit aufgerechnet wird.
-  * Alles noch keine validen Argumente.
+  * Immer noch kein valides Argument
 * Elektromotoren vertragen die Kurzstrecken die wir meist fahren besser als ein Benziner/Diesel.
 * Total Cost of Ownership eines Ottomotors zu der ich noch kommen werde in meiner Marktanalyse.
 * Weniger Emissionen
