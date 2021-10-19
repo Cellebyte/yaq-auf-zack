@@ -46,7 +46,7 @@ Meine Freundin besitzt einen Polo 6N1 in der Basisausstattung mit einer Erstzula
 
 * Im letzten Jahr (2020) ging der Polo nach einem Waschstraßendurchgang einfach mitten auf der Kreuzung im Stadtverkehr aus. (**ADAC** hat ihn dann wieder flott bekommen)
 * Dieses Jahr (2021) ging der Polo meiner Freundin auf dem Nachhauseweg vom 25sten Hochzeitstag meiner Eltern einfach mitten auf der Autobahn (Kreuz Kaiserberg) aus, ließ sich zwar auf dem Standstreifen noch starten aber nur für kurze Zeit. (Sonntags in der Nacht erstmal den **ADAC** Abschleppdienst rufen)
-* Probefahrt am Wochenende, nachdem der Wagen repariert worden war. endete in einem weiteren Anruf beim **ADAC** der uns wieder einmal nach Haus abschleppte.
+* Eine Kaffeefahrt zur Probe am Wochenende, nachdem der Wagen repariert worden war, endete in einem weiteren Anruf beim **ADAC** der uns wieder einmal nach Haus abschleppte.
 * Auf dem Nachhauseweg vom wöchentlichen Termin meiner Freundin klemmte der Gaszug wohl plötzlich während der Fahrt fest und der Wagen fuhr Vollgas mitten auf der Schnellstraße. (ein mobiler **ADAC** Service hatte es zufällig gesehen und konnte ihr Ad-Hoc helfen sie hatte dann Begleitschutz bis nach Hause)
 
 Um dem **ADAC** einen Gefallen zu tun und auch, weil sich eine Inspektion/Instandsetzung nicht mehr lohnt, wollen wir den Polo abschaffen.
