@@ -87,7 +87,7 @@ MathJax = {
       for (var i = 0; i < codes.length; i++) {
         var code = codes[i];
         // Only allow code elements that just contain text, no subelements
-        if (code.childElementCount === 0 and element.classList.contains("language-math") {
+        if (code.childElementCount === 0 and code.classList.contains("language-math") {
           var text = code.textContent.trim();
           inputs = MathJax.startup.getInputJax();
           // For each of the configured input processors, see if the
