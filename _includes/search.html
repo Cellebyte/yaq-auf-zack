@@ -6,10 +6,4 @@
 <!-- Script pointing to search-script.js -->
 <script src="{{ '/assets/js/search.js' | absolute_url }}" type="text/javascript"></script>
 <!-- Configuration -->
-<script type="text/javascript">
-SimpleJekyllSearch({
-  searchInput: document.getElementById("search-input"),
-  resultsContainer: document.getElementById("results-container"),
-  json: "{{ '/search.json' | absolute_url }}"
-});
-</script>
+<script src="{{ '/assets/js/search-config.js' | absolute_url }}" type="text/javascript" json="{{ '/search.json' | absolute_url }}" ></script>
